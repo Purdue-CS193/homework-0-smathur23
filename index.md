@@ -26,14 +26,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-`
-code
-`
+### Time for some Java code
+
+```
+public class Hello {
+  public static void main(String args[]) {
+    System.out.println("Hello!");
+  }
+}
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Youtube Section
 
-Watch videos oen [YouTube](https://www.youtube.com/)
+Watch videos on [YouTube](https://www.youtube.com/)
 
 ### Jekyll Themes
 
