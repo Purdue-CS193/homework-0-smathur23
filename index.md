@@ -1,3 +1,8 @@
+# Saahil Mathur's First CS193 Homework
+  - learning to use terminal
+  - making stuff on Github
+  - No final exam
+
 ### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,20 +31,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Time for some Java code
-
-```
-public class Hello {
-  public static void main(String args[]) {
-    System.out.println("Hello!");
-  }
-}
-```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Youtube Section
-
-Watch videos on [YouTube](https://www.youtube.com/)
 
 ### Jekyll Themes
 
